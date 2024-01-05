@@ -8,7 +8,7 @@ g { color: Green }
 <br/> [Github](https://github.com/jhoney92021)
 <br/> [LinkedIn](www.linkedin.com/in/justin-honey-707b03187)
 
-<h1 style={color: green}>Justin T Honey</h1>
+<h1 style="color: green">Justin T Honey</h1>
 
 ### SKILLS
 .NET(C#,VB,MSSQL,Azure), JS(React,Knockout), Methodology(TDD,Agile(XP),Pair/Mob-Programming), Soft(Flexibility,Passion,Self-Sufficient,Boy-Scout)
