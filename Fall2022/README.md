@@ -15,7 +15,7 @@ g { color: Green }
 
 ### SOFTWARE DEVELOPMENT EXPERIENCE
 #### <o>Recent Personal Projects</o> — Software Developer
-January 2019 - PRESENT
+<font color='red'>January 2019 - PRESENT</font>
 * C# testing framework 
 * Azure used to host interview and personal projects
 * Tutorial Series SQL/ General Syntax
