@@ -1,6 +1,5 @@
 # Justin Honey
 #### Contact Info 
-* 619-402-6840 
 * jhoney92021@gmail.com
 
 # General Technical Skills
